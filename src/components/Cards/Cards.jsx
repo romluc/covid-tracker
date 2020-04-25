@@ -1,7 +1,12 @@
 import React from 'react';
 
-const Cards = () => {
-  return <h1>Cards</h1>;
+const Cards = ({ data }) => {
+  return (
+    <>
+      <h1>Cards</h1>
+      <p>{JSON.stringify(data)}</p>
+    </>
+  );
 };
 
 export default Cards;
