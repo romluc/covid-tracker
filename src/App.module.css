@@ -11,9 +11,26 @@ body {
 h1 {
   color: #444;
 }
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-image: url('./images/covid-bg-bw.jpg');
+}
+
+.image {
+  max-width: 370px;
+  margin-top: 2rem;
+}
+
+@media (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
 }
