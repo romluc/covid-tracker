@@ -8,7 +8,7 @@
 
 - React
 - Axios (to retrieve data from https://covid19.mathdro.id/api)
-- ChartJS
+- ChartJS - Line chart for global state & Bar chart for picked country
 - Material UI
 - TailwindCSS
 - CSS Modules
@@ -17,8 +17,9 @@
 
 ## Images
 
+![Screen Shot 2020-04-30 at 10 28 59](https://user-images.githubusercontent.com/44209758/80716030-8c009a80-8acd-11ea-87f1-1bdb700edf5d.png)
 ![Screen Shot 2020-04-30 at 10 25 52](https://user-images.githubusercontent.com/44209758/80715663-11d01600-8acd-11ea-9d18-ab02ba6204d3.png)
 ![Screen Shot 2020-04-30 at 10 25 25](https://user-images.githubusercontent.com/44209758/80715669-13014300-8acd-11ea-87fb-c175d54f6c83.png)
-![Screen Shot 2020-04-30 at 10 25 03](https://user-images.githubusercontent.com/44209758/80715670-1399d980-8acd-11ea-9fed-6eb369ae1b28.png)
+
 
 
