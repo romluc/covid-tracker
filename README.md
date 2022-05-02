@@ -1,6 +1,4 @@
 # Covid-19 Tracker
-## Based on Javascript Mastery's idea: https://www.youtube.com/watch?v=khJlrj3Y6Ls
-### Project built using create-react-app 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6743d7d3-e103-46ad-92a3-4ed6dd815b79/deploy-status)](https://app.netlify.com/sites/romluc-covidtracker/deploys)
 
